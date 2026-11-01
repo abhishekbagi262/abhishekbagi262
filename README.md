@@ -1,141 +1,177 @@
 <div align="center">
 
-<img src="./github-banner.png" alt="Abhishek Bagi — Developer" width="100%" />
+<img src="./github-banner.png" width="100%" alt="Abhishek Bagi — Developer" />
 
-# Hi, I'm Abhishek Bagi 👋
+# Abhishek Bagi
 
-### ISE Student · Backend Developer · AI Builder
+### ISE Student · Software Developer · AI Builder
 
-<a href="https://www.linkedin.com/in/abhishek-bagi-262abhi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abhishekbagi262@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/abhishekbagi262"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=I+turn+ideas+into+working+software.;Currently+building+with+Python%2C+React+and+AI.;Debugging+today.+Deploying+tomorrow.;Hackathons%3F+Count+me+in.;Learning+DSA+one+problem+at+a+time.;Build.+Break.+Learn.+Repeat." alt="Rotating developer messages" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+software%2C+one+iteration+at+a+time;Exploring+AI%2C+backend+systems+%26+computer+vision;Turning+ideas+into+working+prototypes" alt="Typing introduction" />
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-bagi-262abhi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhishekbagi262@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/abhishekbagi262"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-**Bengaluru, India** · B.E. Information Science & Engineering · Class of 2028
+**Bengaluru, India** · B.E. Information Science & Engineering · 2nd Year · CGPA 8.1/10
 
 </div>
 
 ---
 
-## About
+## whoami
 
-I'm a second-year Information Science and Engineering student interested in building practical software at the intersection of **backend engineering and applied AI**.
+I'm Abhishek, a second-year ISE student interested in **backend engineering, applied AI and building products that solve practical problems**.
 
-I work on Python-based applications, REST APIs, database-backed systems and AI prototypes. I enjoy taking a problem from an initial idea through implementation, testing and documentation—and learning from each iteration.
+I like working across the stack: designing APIs, connecting databases, experimenting with AI models, and turning rough ideas into usable prototypes. I learn best by building, testing, breaking things, and improving them.
 
-- **Currently focused on:** Java and Data Structures & Algorithms, backend development, and applied AI.
-- **Experience:** Backend Development Intern at Decode Labs.
-- **Academic record:** 8.1 / 10.0 CGPA.
-- **Based in:** Bengaluru, India.
+- Currently strengthening **Java, Data Structures & Algorithms**, backend development and system fundamentals.
+- Backend Development Intern at **Decode Labs**.
+- Interested in **AI engineering, computer vision, developer tools and open-source projects**.
+- Always up for a hackathon, a technical challenge or a good collaboration.
 
-## Technology Stack
+## What I'm building with
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c" alt="Python, Java and C" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts" alt="Python, Java, C, JavaScript and TypeScript" />
 
-**Backend & Databases**
+**Backend, Frontend & Data**
 
-<img src="https://skillicons.dev/icons?i=flask,sqlite,postgres" alt="Flask, SQLite and PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,spring,postgres,sqlite" alt="FastAPI, Flask, React, Spring, PostgreSQL and SQLite" />
 
-**AI, Computer Vision & Tools**
+**AI & Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode,postman" alt="OpenCV, Git, GitHub, VS Code and Postman" />
+<img src="https://skillicons.dev/icons?i=opencv,git,github,docker,vscode,postman" alt="OpenCV, Git, GitHub, Docker, VS Code and Postman" />
 
 </div>
 
-## Featured Projects
+## Featured work
+
+Projects are ordered by the priority I am currently giving them.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Reality Check AI
+### MerchantMitra
 
-A visual investigation and asset-management prototype using Gemma 4 multimodal vision. Separates visible evidence, hypotheses and uncertainty, with human verification in the workflow.
+**AI-assisted retail operations platform**
 
-**Focus:** Python · Streamlit · Gemma 4 · Multimodal AI
+POS billing, inventory, customer workflows, campaign planning, business insights and a multilingual merchant assistant for local retailers.
 
-[View repository →](https://github.com/abhishekbagi262/Reality_Check)
+Python · FastAPI · React · TypeScript · SQLAlchemy
 
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ AuthenIQ
-
-A browser-based AICTE application validation and regulatory decision-support prototype for SIH 2026 PS 26261. Emphasizes evidence-led checks and human review.
-
-**Focus:** JavaScript · PDF.js · Tesseract.js · Validation workflows
-
-[View repository →](https://github.com/abhishekbagi262/AuthenIQ)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 APAAR-Connect
-
-A student data management and verification prototype exploring admission validation, intake monitoring, audit trails and privacy-aware verification using synthetic data.
-
-**Focus:** React · TypeScript · Spring Boot · PostgreSQL
-
-[View repository →](https://github.com/abhishekbagi262/APAAR-ID---AuthenIQ)
+[Explore MerchantMitra](https://github.com/abhishekbagi262/Merchant_Mitra)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 MerchantMitra
+### AuthenIQ
 
-An AI-powered retail operating-system concept for local retailers, bringing together billing, inventory, customer workflows and a multilingual business copilot.
+**AICTE application validation prototype · SIH 2026 PS 26261**
 
-**Focus:** Retail technology · AI-assisted workflows
+Evidence-led document review, preliminary compliance checks, simulated source-verification scenarios and officer-in-the-loop decisions.
 
-[View repository →](https://github.com/abhishekbagi262/Merchant_Mitra)
+JavaScript · PDF.js · Tesseract.js
+
+[Explore AuthenIQ](https://github.com/abhishekbagi262/AuthenIQ)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Flask REST API
+### APAAR-Connect
 
-A backend learning project implementing REST endpoints and user-related operations with Flask.
+**Student data management and verification prototype · SIH 2026 PS 26263**
 
-**Focus:** Python · Flask · REST APIs
+Explores admission validation, intake monitoring, anomaly flags, audit history and privacy-aware verification using synthetic data.
 
-[View repository →](https://github.com/abhishekbagi262/backend-project-1-rest-api)
+React · TypeScript · Spring Boot · PostgreSQL
+
+[Explore APAAR-Connect](https://github.com/abhishekbagi262/APAAR-ID---AuthenIQ)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Database CRUD API
+### Database CRUD API
 
-A backend project focused on database integration and CRUD operations using Flask and SQLAlchemy.
+**Flask backend and database integration**
 
-**Focus:** Python · Flask · SQLAlchemy · SQLite
+A REST API with persistent user records, complete CRUD operations, validation and duplicate-email prevention.
 
-[View repository →](https://github.com/abhishekbagi262/backend-project-2-database-crud)
+Python · Flask · SQLAlchemy · SQLite
+
+[Explore CRUD API](https://github.com/abhishekbagi262/backend-project-2-database-crud)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Reality Check
+
+**Gemma 4 multimodal visual investigation prototype**
+
+Explores structured visual analysis that separates evidence, hypotheses and uncertainty, with human review in the workflow.
+
+Python · Streamlit · Gemma 4
+
+[Explore Reality Check](https://github.com/abhishekbagi262/Reality_Check)
+
+</td>
+<td width="50%" valign="top">
+
+### Flask REST API
+
+**Backend development fundamentals**
+
+A Python REST API project built while developing practical backend skills.
+
+Python · Flask · REST
+
+[Explore REST API](https://github.com/abhishekbagi262/backend-project-1-rest-api)
 
 </td>
 </tr>
 </table>
 
-## Experience & Learning
+## Hackathons, builds & developer events
 
-- **Backend Development Intern — Decode Labs:** Working on Python backend development, REST APIs and database-backed applications.
-- **ISRO Bharatiya Antariksh Hackathon 2026:** Worked on a concept for generative-AI-based cloud removal and reconstruction for LISS-IV satellite imagery.
-- **Continuous learning:** Strengthening Java, DSA, database fundamentals, backend architecture and AI engineering.
+I enjoy working on time-bound problem statements, experimenting with new tools and learning alongside other builders.
 
-## GitHub Activity
+| Event / initiative | Involvement |
+|---|---|
+| **Smart India Hackathon 2026** | Team AuthenIQ — AICTE application validation concept (PS 26261) |
+| **ISRO Bharatiya Antariksh Hackathon 2026** | Generative-AI-based cloud removal and reconstruction concept for LISS-IV satellite imagery |
+| **Atria Hacktoberfest 2026** | Gemma 4 track — building with open models and multimodal AI |
+| **Paytm Build for India AI Hackathon — Bengaluru** | Hackathon participation and fintech/AI problem exploration |
+| **AWS Builder Center — Future Builders Connect** | Developer learning, cloud and AI community event |
+| **GDG / Google developer community** | Exploring developer events, community learning and open-source collaboration |
+
+## Experience
+
+**Backend Development Intern — Decode Labs**
+
+Working on practical backend development, including Python, REST APIs, CRUD operations and database integration.
+
+**Project and technical interests**
+
+- Backend API design and database-backed applications.
+- Applied AI and multimodal model experiments.
+- Computer vision using OpenCV and MediaPipe.
+- Building prototypes with clear limitations, testable workflows and useful documentation.
+
+## GitHub dashboard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekbagi262&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbagi262&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekbagi262&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbagi262&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
 
 <br />
 
@@ -143,21 +179,25 @@ A backend project focused on database integration and CRUD operations using Flas
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbagi262&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekbagi262&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
-<sub>Statistics and activity cards are provided by external services and may occasionally be unavailable or delayed.</sub>
+<sub>Stats and activity graphics are supplied by external services; availability and refresh timing may vary.</sub>
 
-## Let's Connect
+## Outside the terminal
 
-I'm interested in connecting with developers, mentors and teams working on software engineering, backend systems and applied AI.
+Curious by default. Usually exploring a new tool, planning a build, watching tech content, or figuring out how something works. I enjoy collaborative problem-solving and learning by shipping small iterations.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-bagi-262abhi"><img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Bagi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abhishekbagi262@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+### Have an interesting problem or build in mind?
 
-<sub>“Build with curiosity. Improve with evidence. Ship with purpose.”</sub>
+**Let's turn it into something real.**
+
+<a href="https://www.linkedin.com/in/abhishek-bagi-262abhi"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abhishekbagi262@gmail.com"><img src="https://img.shields.io/badge/Send_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<sub>while (curious) { build(); learn(); repeat(); }</sub>
 
 </div>
