@@ -191,18 +191,18 @@ Working on practical backend development through Python, REST APIs, CRUD operati
 <div align="center">
 
 <a href="https://github.com/abhishekbagi262">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekbagi262&theme=tokyonight" alt="GitHub profile contribution summary" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekbagi262&theme=github_dark" alt="GitHub profile contribution summary" width="98%" />
 </a>
 
 <a href="https://github.com/abhishekbagi262">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekbagi262&theme=tokyonight" alt="Languages by repository" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekbagi262&theme=github_dark" alt="Languages by repository" width="48%" />
 </a>
 <a href="https://github.com/abhishekbagi262">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekbagi262&theme=tokyonight" alt="Most used commit languages" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekbagi262&theme=github_dark" alt="Most used commit languages" width="48%" />
 </a>
 
 <a href="https://github.com/abhishekbagi262">
-<img src="https://ghchart.rshah.org/38bdf8/abhishekbagi262" alt="GitHub contribution calendar" width="98%" />
+<img src="https://ghchart.rshah.org/a855f7/abhishekbagi262" alt="GitHub contribution calendar" width="98%" />
 </a>
 
 </div>
