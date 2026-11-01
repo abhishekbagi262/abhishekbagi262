@@ -152,29 +152,62 @@ PYTHON · FLASK · REST
 </tr>
 </table>
 
-## 04 / Hackathons & builder community
+## 04 / The builder circuit
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PAYTM-BUILD_FOR_INDIA_AI_HACKATHON-00B8A9?style=for-the-badge" alt="Paytm Build for India AI Hackathon" />
-<img src="https://img.shields.io/badge/ATRIA-HACKTOBERFEST_2026-7C3AED?style=for-the-badge" alt="Atria Hacktoberfest 2026" />
-<img src="https://img.shields.io/badge/ISRO-BHARATIYA_ANTARIKSH_HACKATHON-1D4ED8?style=for-the-badge" alt="ISRO Bharatiya Antariksh Hackathon" />
+<a href="https://github.com/abhishekbagi262">
+<img src="https://img.shields.io/badge/FEATURED_EVENT-PAYTM_BUILD_FOR_INDIA_AI_HACKATHON-8B5CF6?style=for-the-badge&labelColor=111827" alt="Featured: Paytm Build for India AI Hackathon" />
+</a>
+
+### Build for India. Build with AI. Build what matters.
+
+**Paytm Build for India AI Hackathon · Bengaluru**
+
+Exploring real-world fintech challenges and the use of AI to create practical solutions.
 
 </div>
 
-| Build / event | What I explored |
-|---|---|
-| **Paytm Build for India AI Hackathon · Bengaluru** | Fintech problem-solving and building with AI |
-| **Atria Hacktoberfest 2026 · Gemma track** | Open models, multimodal AI and practical experimentation |
-| **ISRO Bharatiya Antariksh Hackathon 2026** | Generative-AI-based cloud removal and reconstruction for LISS-IV satellite imagery |
-| **AWS Builder Center · Future Builders Connect** | Cloud, AI and the developer ecosystem |
-| **GDG / Google developer community** | Community learning, technical events and collaboration |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ATRIA HACKTOBERFEST 2026**
+
+Gemma track · Open models · Multimodal AI experiments
+
+</td>
+<td width="50%" valign="top">
+
+**ISRO BHARATIYA ANTARIKSH HACKATHON 2026**
+
+Explored generative-AI-based cloud removal and reconstruction for LISS-IV satellite imagery.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AWS BUILDER CENTER**
+
+Future Builders Connect · Cloud and AI community learning
+
+</td>
+<td width="50%" valign="top">
+
+**GDG / GOOGLE DEVELOPER COMMUNITY**
+
+Developer events · Technical learning · Collaboration
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**HACKATHON CHECKLIST**
+**THE BUILD LOOP**
 
-Understand the problem &nbsp;→&nbsp; Build the prototype &nbsp;→&nbsp; Test the idea &nbsp;→&nbsp; Demo day
+`Find a real problem` &nbsp;⟶&nbsp; `Prototype fast` &nbsp;⟶&nbsp; `Test & iterate` &nbsp;⟶&nbsp; `Demo & learn`
 
 </div>
 
