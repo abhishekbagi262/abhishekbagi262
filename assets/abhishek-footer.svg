@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="footer-title">
+  <title id="footer-title">Build. Learn. Iterate.</title>
+  <defs>
+    <linearGradient id="footer-bg-ab" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset=".5" stop-color="#451126"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="18" fill="url(#footer-bg-ab)"/>
+  <path d="M30 78H1170" stroke="#C77B9B" stroke-opacity=".4"/>
+  <path d="M30 78H250" stroke="#E5B5C7" stroke-width="2">
+    <animate attributeName="stroke-dasharray" values="0 220;220 0;0 220" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="48" text-anchor="middle" fill="#F8F0F3" font-family="ui-monospace,monospace" font-size="22" letter-spacing="3">BUILD  ·  LEARN  ·  ITERATE</text>
+  <text x="600" y="96" text-anchor="middle" fill="#E5B5C7" font-family="ui-monospace,monospace" font-size="10" letter-spacing="2">CURIOSITY IS THE ENGINE. EXECUTION IS THE PROOF.</text>
+</svg>
