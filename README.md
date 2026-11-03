@@ -117,7 +117,9 @@ Working through practical backend development tasks involving Python, REST API d
 
 **Technical focus:** API development · Data persistence · Request validation · SQLAlchemy · SQLite
 
-## 04 / Hackathons & developer community
+## 04 / Certifications & developer community
+
+**Certifications:** PostgreSQL · Cloud Computing Fundamentals
 
 - **Paytm Build for India AI Hackathon — Bengaluru Edition:** Participated in a build focused on practical AI applications.
 - **ISRO Bharatiya Antariksh Hackathon 2026:** Explored generative-AI-based cloud removal and reconstruction for LISS-IV satellite imagery with team TECH BADGERS.
