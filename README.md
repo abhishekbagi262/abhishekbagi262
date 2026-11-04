@@ -24,7 +24,7 @@ I enjoy turning problem statements into working prototypes — designing APIs, c
 - Currently strengthening **Java, Data Structures & Algorithms, and backend engineering**.
 - Building with **Python, Flask, SQLAlchemy, REST APIs, and computer vision**.
 - Exploring practical AI systems, document workflows, and developer tools.
-- Interested in software engineering internships, hackathons, and collaborative builds.
+- Interested in software engineering internships, hackathons, meetups, and collaborative builds.
 
 ## 02 / Selected work
 
