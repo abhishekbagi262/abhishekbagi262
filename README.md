@@ -158,24 +158,14 @@ Working through practical backend development tasks involving Python, REST API d
 
 <div align="center">
 
-<a href="https://github.com/abhishekbagi262">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekbagi262&theme=github_dark" width="98%" alt="GitHub profile contribution summary" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekbagi262&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub statistics including commits, stars, pull requests and issues" />
 
-<a href="https://github.com/abhishekbagi262">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekbagi262&theme=github_dark" width="48%" alt="Languages across public repositories" />
-</a>
-<a href="https://github.com/abhishekbagi262">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekbagi262&theme=github_dark" width="48%" alt="Most-used commit languages" />
-</a>
-
-### Contribution calendar
-
-<img src="https://ghchart.rshah.org/C77B9B/abhishekbagi262" width="98%" alt="GitHub contribution calendar for Abhishek Bagi" />
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhishekbagi262&query=%24.public_repos&label=Public%20repositories&color=C77B9B" alt="Public repositories" />
+  <img src="https://img.shields.io/github/followers/abhishekbagi262?label=Followers&style=flat&color=451126" alt="GitHub followers" />
+</p>
 
 </div>
-
-<sub>These visualizations depend on third-party services and GitHub's publicly available activity data. Language cards describe repository/commit language distribution, not a measure of skill. If a service is unavailable, the cards may not render.</sub>
 
 ## 08 / Outside the editor
 
