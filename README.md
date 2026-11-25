@@ -109,7 +109,15 @@ Python · Streamlit · Gemma 4
 </tr>
 </table>
 
-## 03 / Experience
+## 03 / Problem solving
+
+**Data Structures & Algorithms · Java**
+
+Practising coding interview problems on LeetCode, starting with fundamentals and building consistency through problem-by-problem solutions.
+
+[Explore DSA & LeetCode solutions →](https://github.com/abhishekbagi262/DSA_LeetCode) · [View LeetCode profile](https://leetcode.com/)
+
+## 04 / Experience
 
 **Backend Development Intern — Decode Labs**
 
@@ -117,7 +125,7 @@ Working through practical backend development tasks involving Python, REST API d
 
 **Technical focus:** API development · Data persistence · Request validation · SQLAlchemy · SQLite
 
-## 04 / Certifications & developer community
+## 05 / Certifications & developer community
 
 **Certifications:** PostgreSQL · Cloud Computing Fundamentals
 
@@ -126,7 +134,7 @@ Working through practical backend development tasks involving Python, REST API d
 - **Atria Hacktoberfest 2026:** Worked on a Gemma-track prototype exploring AI-assisted notice analysis.
 - **AWS Builder Center — Future Builders Connect:** Participated in cloud and AI community learning.
 
-## 05 / Technology I work with
+## 06 / Technology I work with
 
 <div align="center">
 
@@ -146,7 +154,7 @@ Working through practical backend development tasks involving Python, REST API d
 
 *Technologies shown reflect my current project work and learning areas; proficiency varies by tool.*
 
-## 06 / GitHub activity
+## 07 / GitHub activity
 
 <div align="center">
 
@@ -169,7 +177,7 @@ Working through practical backend development tasks involving Python, REST API d
 
 <sub>These visualizations depend on third-party services and GitHub's publicly available activity data. Language cards describe repository/commit language distribution, not a measure of skill. If a service is unavailable, the cards may not render.</sub>
 
-## 07 / Outside the editor
+## 08 / Outside the editor
 
 I like learning by building, exploring unfamiliar technologies, participating in developer events, and collaborating with people who enjoy solving real problems.
 
