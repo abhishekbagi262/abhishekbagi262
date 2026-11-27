@@ -115,7 +115,13 @@ Python · Streamlit · Gemma 4
 
 Practising coding interview problems on LeetCode, starting with fundamentals and building consistency through problem-by-problem solutions.
 
-[Explore DSA & LeetCode solutions →](https://github.com/abhishekbagi262/DSA_LeetCode) · [View LeetCode profile](https://leetcode.com/)
+[Explore DSA & LeetCode solutions →](https://github.com/abhishekbagi262/DSA_LeetCode) · [View LeetCode profile](https://leetcode.com/u/Abhi_Bagi/)
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhi_Bagi?theme=transparent&animation=false)](https://leetcode.com/u/Abhi_Bagi/)
+
+</div>
 
 ## 04 / Experience
 
